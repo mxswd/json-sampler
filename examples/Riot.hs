@@ -2,7 +2,7 @@
 module Riot where
 
 import Data.Aeson.Sampler
-
+-- from https://developer.riotgames.com/api/methods#!/617/1923
 [fromSample|
 {"champions": [
    {
